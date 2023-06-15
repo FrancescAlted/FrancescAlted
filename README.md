@@ -7,7 +7,7 @@
 
 I am a curious person who studied Physics and Math when I was young. Through the years, I developed a passion for handling large datasets and using compression to enable their analysis using regular hardware that is accessible to everyone.
 
-I am currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both.
+I am part of the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both.
 
 You can know more on what I am working on by reading my [latest blogs](https://www.blosc.org/authors/francesc-alted).
 
