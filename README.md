@@ -7,7 +7,7 @@
 
 I am a curious person who studied Physics and Math when I was young. Through the years, I developed a passion for handling large datasets and using compression to enable their analysis using regular hardware that is accessible to everyone.
 
-I am part of the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both.
+I am leading the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both.
 
 You can know more on what I am working on by reading my [latest blogs](https://www.blosc.org/authors/francesc-alted).
 
@@ -96,6 +96,8 @@ You can know more on what I am working on by reading my [latest blogs](https://w
 
 ## Papers
 
+  * [Using Blosc2 NDim As A Fast Explorer Of The Milky Way (Or Any Other NDim Dataset)](https://conference.scipy.org/proceedings/scipy2023/Francesc_Alted.html). Proceedings of the 22nd Python in Science Conference, 2023. DOI 10.25080/gerudo-f2bc6f59-000.
+  
   * [Why Modern CPUs Are Starving and What Can Be Done about It](http://www.blosc.org/docs/CISE-12-2-ScientificPro.pdf). Computing in Science & Engineering, March/April, 2010.
 
   * [Processing and Analyzing Extremely Large Amounts of Data](http://www.blosc.org/docs/pycon2003-paper.pdf) (paper version). Presented at the PyCon 2003 conference, held in Washington DC, from 26th to 28th of March, 2003.
