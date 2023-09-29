@@ -9,6 +9,11 @@ I am a curious person who studied Physics and Math when I was young. Through the
 
 I am leading the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both.
 
+As an Open Source believer, I started the [PyTables project more than 20 years ago](https://www.blosc.org/posts/pytables-20years/).  Currently, and after 25 years in this business, I am the proudly owner of two prizes that mean a lot to me:
+
+* 2023: [NumFOCUS Project Sustainability Award](https://www.blosc.org/docs/NumFOCUS-Sustainability-Award.jpg)
+* 2017: [Google’s Open Source Peer Bonus](https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.html)
+
 You can know more on what I am working on by reading my [latest blogs](https://www.blosc.org/authors/francesc-alted).
 
 ## Experience
