@@ -7,7 +7,7 @@
 
 I am a curious person who studied Physics and Math when I was young. Through the years, I developed a passion for handling large datasets and using compression to enable their analysis using regular hardware that is accessible to everyone.
 
-I am leading the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both.
+I am the CEO of [ironArray SLU](https://ironarray.io) and also leading the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both.
 
 As an Open Source believer, I started the [PyTables project more than 20 years ago](https://www.blosc.org/posts/pytables-20years/).  Currently, and after 25 years in this business, I am the proudly owner of two prizes that mean a lot to me:
 
