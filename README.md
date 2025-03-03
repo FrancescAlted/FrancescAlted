@@ -5,7 +5,7 @@
 
 -->
 
-I am a curious person who studied Physics and Math when I was young. Through the years, I developed a passion for handling large datasets and using compression to enable their analysis using regular hardware that is accessible to everyone.
+I am a curious person who studied Physics (BSc) and Applied Maths (MSc). Through the years, I developed a passion for handling large datasets and using compression to enable their analysis using regular hardware that is accessible to everyone.
 
 I am the CEO of [ironArray SLU](https://ironarray.io) and also leading the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both. I am also very busy in providing a way for sharing Blosc2 datasets in the network in an easy and effective way via [Caterva2](https://ironarray.io/caterva2-doc/index.html) and [Cat2Cloud](https://ironarray.io/cat2cloud), a software as a service that ironArray is proudly providing.
 
