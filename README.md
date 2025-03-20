@@ -7,9 +7,9 @@
 
 I am a curious person who studied Physics (BSc, MSc) and Applied Maths (MSc). I spent over a year at [CERN](https://home.cern) for my MSc in High Energy Physics. However, I found maths and computer sciences equally fascinating, so I left academia to pursue these fields. Over the years, I developed a passion for handling large datasets and using compression to enable their analysis on commodity hardware accessible to everyone.
 
-I am the CEO of [ironArray SLU](https://ironarray.io) and also leading the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://btune.blosc.org). This way, users can choose whether they prefer a higher compression ratio, faster compression speed, or a balance between both. I am also very busy in providing a way for sharing Blosc2 datasets in the network in an easy and effective way via [Caterva2](https://ironarray.io/caterva2-doc/index.html) and [Cat2Cloud](https://ironarray.io/cat2cloud), a software as a service that ironArray is proudly providing.
+I am the CEO of [ironArray SLU](https://ironarray.io) and also leading the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://ironarray.io/btune). I am also very excited in providing a way for sharing Blosc2 datasets in the network in an easy and effective way via [Caterva2](https://ironarray.io/caterva2-doc/index.html), and [Cat2Cloud](https://ironarray.io/cat2cloud), a software as a service that we are introducing.
 
-As an Open Source believer, I started the [PyTables project more than 20 years ago](https://www.blosc.org/posts/pytables-20years/).  Currently, and after 25 years in this business, I started several other useful open source projects like Blosc, Caterva2 and [Btune](https://github.com/ironArray/Blosc2-Btune); those efforts won me two prizes that mean a lot to me:
+As an Open Source believer, I started the [PyTables project more than 20 years ago](https://www.blosc.org/posts/pytables-20years/).  After 25 years in this business, I started several other useful open source projects like Blosc, Caterva2 and [Btune](https://github.com/ironArray/Blosc2-Btune); those efforts won me two prizes that mean a lot to me:
 
 * 2023: [NumFOCUS Project Sustainability Award](https://www.blosc.org/docs/NumFOCUS-Sustainability-Award.jpg)
 * 2017: [Google’s Open Source Peer Bonus](https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.html)
@@ -18,16 +18,14 @@ You can know more on what I am working on by reading my [latest blogs](https://w
 
 ## Experience
 
-  - [Blosc Development Team](https://blosc.org): May 2014 - Today
+  - [Blosc Development Team](https://blosc.org): March 2010 - Today
 
      BDFL. Working on designing and coding libraries for efficiently compressing large datasets. Our main projects are:
-     + [C-Blosc](https://github.com/Blosc/c-blosc)
-     + [Python-Blosc](https://github.com/Blosc/python-blosc)
      + [C-Blosc2](https://github.com/Blosc/c-blosc2)
      + [Python-Blosc2](https://github.com/Blosc/python-blosc2)
      
-     In particular, C-Blosc2 and Python-Blosc2 implement very powerful yet flexible multidimensional containers for large datasets ([NDim and NDArray](https://www.blosc.org/posts/blosc2-ndim-intro)).
-
+     These projects implement very powerful, yet flexible multidimensional containers for large datasets ([NDim and NDArray](https://www.blosc.org/posts/blosc2-ndim-intro)). With the Python version, you can *efficiently* [compute with large datasets that can exceed 100x times your available RAM](https://ironarray.io/blog/compute-bigger).
+    
   - [ironArray SL](https://ironarray.io): October 2021 - Today
 
      CEO.  Developing libraries for overcoming the limits imposed by technology when computing with multidimensional arrays, specially where the memory bandwidth becomes a bottleneck.  Expert in compression applied to storage and computation.
