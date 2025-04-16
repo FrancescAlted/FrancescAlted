@@ -9,7 +9,7 @@ I am a curious person who studied Physics (BSc, MSc) and Applied Maths (MSc). I 
 
 I am the CEO of [ironArray SLU](https://ironarray.io) and also leading the [Blosc Development Team](https://blosc.org), and currently interested in determining, ahead of time, which [combinations of codecs and filters can provide a personalized compression experience](https://ironarray.io/btune). I am also very excited in providing a way for sharing Blosc2 datasets in the network in an easy and effective way via [Caterva2](https://ironarray.io/caterva2-doc/index.html), and [Cat2Cloud](https://ironarray.io/cat2cloud), a software as a service for handling and computing with datasets directly in the cloud.
 
-As an Open Source believer, I started the [PyTables project more than 20 years ago](https://www.blosc.org/posts/pytables-20years/).  After 25 years in this business, I started several other useful open source projects like Blosc, Caterva2 and [Btune](https://github.com/ironArray/Blosc2-Btune); those efforts won me two prizes that mean a lot to me:
+As an Open Source believer, I started the [PyTables project more than 20 years ago](https://www.blosc.org/posts/pytables-20years/).  After 25 years in this business, I started several other useful open source projects like [Blosc2](https://blosc.org), [Caterva2](https://github.com/ironArray/Caterva2) and [Btune](https://github.com/ironArray/Blosc2-Btune); those efforts won me two prizes that mean a lot to me:
 
 * 2023: [NumFOCUS Project Sustainability Award](https://www.blosc.org/docs/NumFOCUS-Sustainability-Award.jpg)
 * 2017: [Google’s Open Source Peer Bonus](https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.html)
